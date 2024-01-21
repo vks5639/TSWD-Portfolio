@@ -1,12 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
@@ -16,7 +9,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 I am Vikash Kumar Singh, currently enrolled in the Master of Information Systems Management (MISM) program at Carnegie Mellon University. My email address is vksingh@andrew.cmu.edu, and I maintain a professional presence on LinkedIn, available at https://www.linkedin.com/in/vikash-ks/. I am enhancing my skill set in Data Analytics and Management by taking courses in Telling Stories with Data, Business and Marketing Strategy, Technology Strategy, Modern Data Management, and Agile Methods.
 
 # What I hope to learn
-
+![My Photo](https://i.imgur.com/oPzIXWc.png) "Image created by AI (DALL-E)"
 1. Data Analytics
 2. Data Science
 3. Quantitative Analytics
