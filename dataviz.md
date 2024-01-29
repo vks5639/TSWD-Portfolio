@@ -22,3 +22,6 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+I have calculated and represented the average debt-to-GDP ratio of the countries. I have made the representation user interactive by adding a slider for average debt-to-GDP changes over the years (1995-2022). Since the ratios vary from country to country, I have represented the data in a geographical representation. I have labeled the country and its average debt-to-GDP ratio. I have chosen the average value of the debt-to-GDP ratio because it shows what a country owes to what it produces. It also shows the capability of each country to pay back its debt over the years. 
+An average value gives a clearer picture of the ratio as compared to a single year. For example, the COVID-19 pandemic years led to increased borrowing shooting up the debt for many countries. Developed nations like Japan and the United States have high average debt-to-GDP ratios.
