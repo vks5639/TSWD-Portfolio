@@ -9,7 +9,8 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 I am Vikash Kumar Singh, currently enrolled in the Master of Information Systems Management (MISM) program at Carnegie Mellon University. My email address is vksingh@andrew.cmu.edu, and I maintain a professional presence on LinkedIn, available at https://www.linkedin.com/in/vikash-ks/. I am enhancing my skill set in Data Analytics and Management by taking courses in Telling Stories with Data, Business and Marketing Strategy, Technology Strategy, Modern Data Management, and Agile Methods.
 
 # What I hope to learn
-![My Photo](https://i.imgur.com/GBqmYvr.png) "Image created by AI (DALL-E)"
+![My Photo](https://i.imgur.com/GBqmYvr.png) 
+<span style="font-size: 10px;">Image created by AI (DALL-E)</span>
 1. Data Analytics
 2. Data Science
 3. Quantitative Analytics
