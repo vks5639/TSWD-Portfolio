@@ -10,7 +10,7 @@ I am Vikash Kumar Singh, currently enrolled in the Master of Information Systems
 
 # What I hope to learn
 ![My Photo](https://i.imgur.com/GBqmYvr.png) 
-<span style="font-size: 6px;">Image created by AI (DALL-E)</span>
+<span style="font-size: 10px;">Image created by AI (DALL-E)</span>
 1. Data Analytics
 2. Data Science
 3. Quantitative Analytics
@@ -20,7 +20,8 @@ I am Vikash Kumar Singh, currently enrolled in the Master of Information Systems
 
 # Portfolio
 
-![Assignments and Final Project](https://i.imgur.com/QrJAczw.png)  "Image created by AI (DALL-E)"
+![Assignments and Final Project](https://i.imgur.com/QrJAczw.png)  
+<span style="font-size: 10px;">Image created by AI (DALL-E)</span>
 
 # Assignmnets and Final Project 
 
