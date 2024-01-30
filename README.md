@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README) | [visualizing debt](dataviz) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
@@ -25,6 +25,9 @@ I am Vikash Kumar Singh, currently enrolled in the Master of Information Systems
 
 ## Assignment: [Visualizing government debt using Tableau](dataviz)
 ### General government debt Total, % of GDP, 2022, Source: National Accounts at a Glance
+1. Government debt bar chart
+2. Heat Map
+3. The third data visualization
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
