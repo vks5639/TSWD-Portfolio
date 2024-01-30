@@ -24,7 +24,9 @@ The higher the debt-to-GDP ratio, the less likely the country will pay back its 
 
 ### Description
 
+
 Heat map visualization of the general government debt-to-GDP of countries for 2022. The numbers are the measure of the gross debt of the general government as a percentage of GDP calculated over the years (1995-2022).  The blue color represents the lower percentage whereas the orange color represents the higher percentage.
+
 
 
 # The third data visualization
@@ -57,7 +59,7 @@ help reveal relationships and correlations between variables. By plotting data p
 For the visualization of the Average debt-to-GDP measures, the third data visualization of a geographical map combined with bar representation offers a clear, concise, and comprehensive view. The geographical map offers an immediate visual understanding of the data's distribution across different countries. The best way to represent the data that I could think of is by representing the values on a map. This makes the comparison more intuitive as it gives a clearer comparison of the data from country to country. I have used cooler intuitive colors which gives a calmer sense of visualization. I have used lighter colors for low values and darker colors for high values. As already mentioned, the bar chart complements the geographical representation with the rankings of the countries. Another thing to notice is the color codes that I used for both the geographical and the bar charts. I have made it to make the color and variables consistent throughout.
 
 # References
-OECD (2024), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 29 January 2024)
-Debt-to-GDP Ratio: Formula and What It Can Tell You. (n.d.). Investopedia. Retrieved January 29, 2024, from https://www.investopedia.com/terms/d/debtgdpratio.asp
-Which Type of Chart or Graph is Right for You? (n.d.). Retrieved January 29, 2024, from https://www.tableau.com/learn/whitepapers/which-type-chart-or-graph-right-for-you-ungated
+1. OECD (2024), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 29 January 2024)
+2. Debt-to-GDP Ratio: Formula and What It Can Tell You. (n.d.). Investopedia. Retrieved January 29, 2024, from https://www.investopedia.com/terms/d/debtgdpratio.asp
+3. Which Type of Chart or Graph is Right for You? (n.d.). Retrieved January 29, 2024, from https://www.tableau.com/learn/whitepapers/which-type-chart-or-graph-right-for-you-ungated
 
