@@ -2,7 +2,14 @@
 
 # Step one: choose a data visualization from MakeoverMonday
 Breakfast Cereals: Healthy or Unhealthy?
+
 Source: https://data.world/makeovermonday/2020w36
+
+## Original visualization
+
+![img1](https://i.imgur.com/H6cr0N5.png) 
+
+Source: “2020/W36: Calories and Sugar in Cereals - Dataset by Makeovermonday.”
 
 # Step two: critique the data visualization
 
@@ -106,4 +113,8 @@ I learned that the basic idea of the visualization was well received by the audi
 Initially, I tried to use Bubble charts to compare calories. When I created the visualization as a sheet the labels were correctly visible. I also kept the color of the bubble yellowish brown to match the color of the flakes which is common in cereals. However, when I added the sheet to the visualization all the labels disappeared. I discussed with my Professor on use of a Bubble chart and cautions on when to use it. I came to a conclusion that since there were more data variables and also due to missing labels, I had to remove it. I chose a bar chart because it is easier to compare the data in bar graphs. I made the visualization interactive by adding a drop-down button. Unlike the original visualization. I didn't want to limit my data only to the top 10 cereal brands. I also wanted to add information on individual rankings of the cereals based on sugar content, calorie content, and overall rating. I have created separate scrollable bars for the individual rankings.
 
 I have added the recommended values in the vars to make it easier to compare with the actual values. Earlier I was using grey color for my recommended bar but it didn't give a contrasting or comparison intuition. So I changed the color to orange. I did this because when sugar comes to mind, I think of juices, candies, and orange color gives me an impression of sweetness. I have used a blue color to make it contrast with the recommended values. Another reason for choosing the colors was, while going through study materials and other resources I came across comparison graphs that had similar colors.
+
+# References
+1. “2020/W36: Calories and Sugar in Cereals - Dataset by Makeovermonday.” Data.World, https://data.world/makeovermonday/2020w36. Accessed 6 Feb. 2024.
+2. 
 
