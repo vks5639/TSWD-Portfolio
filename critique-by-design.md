@@ -13,15 +13,15 @@ Source: “2020/W36: Calories and Sugar in Cereals - Dataset by Makeovermonday.�
 
 # Step two: critique the data visualization
 
-## Insights from critique method
+## Insights from the critique method
 
 ## Usefulness: 
-In my opinion, the charts aren't too useful to the intended audience. Let's understand this. The topic of discussion for Makeover Monday is "Breakfast Cereals: Healthy or Unhealthy?" This aims to address a broader audience in a country or the entire world, unless you meet someone who doesn't include breakfast in their daily meals. Depicting only the top 10 cereals with the most sugars and most calories compels the audience to believe that cereals generally have high sugar and calories.
+In my opinion, the charts aren't too useful to the intended audience. Let's understand this. The topic of discussion for Makeover Monday is "Breakfast Cereals: Healthy or Unhealthy?" This aims to address a broader audience in a country or the entire world unless you meet someone who doesn't include breakfast in their daily meals. Depicting only the top 10 cereals with the most sugars and most calories compels the audience to believe that cereals generally have high sugar and calories.
 
-Do you think the information is of any use to audiences who do not consume any of those 10 cereals? No, right? As mentioned in the Data Visualization Effectiveness Profile, "We want to provide information that is useful. If it isn’t useful, it isn’t important. A visualization can be eloquent in every way, but if it communicates information that is of no value, it is ineffective." As an audience member, I want to know if the cereal I eat is healthy or unhealthy. If unhealthy, give me options to choose the best cereals that have low sugars and calories.
+Do you think the information is of any use to audiences who do not consume any of those 10 cereals? No, right? As mentioned in the Data Visualization Effectiveness Profile, "We want to provide information that is useful. If it isn’t useful, it isn’t important. A visualization can be eloquent in every way, but if it communicates information that is of no value, it is ineffective." (Few, Stephen. Data Visualization Effectiveness Profile. 2017). As an audience, I want to know if the cereal I eat is healthy or unhealthy. If unhealthy, give me options to choose the best cereals that have low sugars and calories. 
 
 ## Completeness: 
-I believe the charts fail to provide all the information needed for a better level of understanding. The Data Visualization Effectiveness Profile talks about all the context required to understand the information, which can come as a comparison of the depicted values in the chart with other values.
+I believe the charts fail to provide all the information needed for a better level of understanding. The Data Visualization Effectiveness Profile talks about all the context required to understand the information, which can come as a comparison of the depicted values in the chart with other values. (Few, Stephen. Data Visualization Effectiveness Profile. 2017.)
 
 The charts provided the value of sugars; it doesn't mention the units in the chart, but I believe it would be grams. But, how did the designer of the chart adjudge that the cereals with a particular amount of sugars and calories are unhealthy? I would love to see data from a valid hospital website or health platform that shows what the recommended daily values of protein and calories in breakfast are.
 
@@ -116,5 +116,6 @@ I have added the recommended values in the vars to make it easier to compare wit
 
 # References
 1. “2020/W36: Calories and Sugar in Cereals - Dataset by Makeovermonday.” Data.World, https://data.world/makeovermonday/2020w36. Accessed 6 Feb. 2024.
-2. 
+2. Few, Stephen. Data Visualization Effectiveness Profile. 2017.
+
 
