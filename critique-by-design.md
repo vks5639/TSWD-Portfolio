@@ -42,9 +42,9 @@ I was inspired by the information and researched more on this topic. I came to k
 # Step three: sketch out a solution
 
 ## Creating a wireframe following the critique method and the seven parameters
+![img1](https://i.imgur.com/J0SPvt3.png) 
+![img1](https://i.imgur.com/8CL3NHX.jpeg) 
 
-https://i.imgur.com/J0SPvt3.png
-https://i.imgur.com/8CL3NHX.jpeg
 
 # Step four: Test the solution
 
@@ -87,11 +87,14 @@ You should remove extra information to be better received by audience.
 Would changes would you have made to make the understanding easier?
 Comparison with recommended value can be put in one chart. Use logos of cereal brands. Instead of shades of lines inside bars, you can use contrasting colors for comparison.
 
-# Insights from feedback
+## Insights from feedback
 
 There is too much data in my visualization. 
+
 I have to make the visualization more appealing by adding labels of brands or components like sugar or equivalence of spoons. 
+
 I need to make it more relatable for a better reach to the audience.
+
 I need to choose colors for comparisons.
 
 # Step five: Build your solution
