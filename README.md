@@ -32,7 +32,18 @@ I am Vikash Kumar Singh, currently enrolled in the Master of Information Systems
 3. The third data visualization
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+### Click on Critique by Design for details on the steps below
+
+Step one: select a visualization to redesign from MakeoverMonday (https://makeovermonday.co.uk/Links to an external site.).  
+
+Step two: critique the visualization
+
+Step three: wireframe a solution
+
+Step four: test the solution
+
+Step five: build your solution 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
