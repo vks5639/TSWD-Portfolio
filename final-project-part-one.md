@@ -14,11 +14,14 @@ Through this project, I will dive in through the problems and bottlenecks one mi
 
 The book Good Charts, (Berinato, 2016, p. 199) mentions, "Any story can be told in multiple ways, but a good way to start is to break the idea into three basic dramatic parts: setup, conflict, and resolution." The major elements of my story will be structured based on the following:
 
-### Setup: New restaurants involve selecting a location, managing costs, analyzing competitors, and comparing ratings and reviews.
+### Setup: 
+New restaurants involve selecting a location, managing costs, analyzing competitors, and comparing ratings and reviews.
 
-### Conflict: Lack of statistical data insights creates challenges of unexpected costs, delays, stronger competition, and closure of restaurants.
+### Conflict: 
+Lack of statistical data insights creates challenges of unexpected costs, delays, stronger competition, and closure of restaurants.
 
-### Resolution: Strategic planning optimizes location benefits, manages financial resources, gains edge over competitors, and gains better reviews and ratings.
+### Resolution: 
+Strategic planning optimizes location benefits, manages financial resources, gains edge over competitors, and gains better reviews and ratings.
 
 The above structure will help me understand the existing problem and with the availability of data, I can further gain insights on which is the best way ahead to successfully build a restaurant. I will be informed of mistakes in the business models of existing restaurants which will help me avoid those when I create a business model of my own.
 
