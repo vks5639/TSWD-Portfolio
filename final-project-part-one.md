@@ -12,7 +12,7 @@ Through this project, I will dive in through the problems and bottlenecks one mi
  
 ## Project Structure
 
-The book Good Charts, (Berinato, 2016, p. 199) mentions, "Any story can be told in multiple ways, but a good way to start is to break the idea into three basic dramatic parts:" setup, conflict, and resolution." () The major elements of my story will be structured based on the following:
+The book Good Charts, (Berinato, 2016, p. 199) mentions, "Any story can be told in multiple ways, but a good way to start is to break the idea into three basic dramatic parts:" setup, conflict, and resolution." The major elements of my story will be structured based on the following:
 Setup: New restaurants involve selecting a location, managing costs, analyzing competitors, and comparing ratings and reviews.
 Conflict: Lack of statistical data insights creates challenges of unexpected costs, delays, stronger competition, and closure of restaurants.
 Resolution: Strategic planning optimizes location benefits, manages financial resources, gains edge over competitors, and gains better reviews and ratings.
@@ -23,9 +23,11 @@ The above structure will help me understand the existing problem and with the av
 As an individual, I want to gather data insights on restaurants, so that I can build a restaurant of my own.
 
 Creating a solid business model will help me avoid risks and failures in my investments in real estate.
+
 ![img1](https://i.imgur.com/DebCGJX.jpeg) 
 
-## Initial sketches
+
+# Initial sketches
 
 I will be creating an interactive map that will provide all the restaurants in the location selected to open a restaurant. For every competitor restaurant, I will detail the parameters like ratings, reviews, price, the best-sold dish, etc. This will help me understand that if I want to gain an edge over my competitor, which pitfalls must I avoid? For example, if a location has a Mexican restaurant, with a huge review count, and a good rating, the chances are there are more Mexicans in the area.
 
@@ -37,7 +39,7 @@ I will also create separate bar charts to quickly understand restaurants and the
 
 
 
-# The data
+# The Data
 
 I will be scraping data from public repositories. I will be using a publicly available data repository Yelp API. This will have data on restaurant location, cuisine type, ratings, reviews, price, and review counts. Based on the above parameters, I can analyze the conflicts, I might have opening a new restaurant. I can filter the data to make concise data visualizations which will help me make better decisions.
 
