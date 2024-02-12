@@ -1,36 +1,62 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+
+## Summary
+
+Growing up I realised the long-term benefits and future of real estate. I always wanted to create something of my own. Reading books like Rich Dad Poor Dad by Robert Kiyosaki, a Japanese-American businessman and author
+further piqued my interest in how to be financially independent and make money work for you rather than working for money (). This led me to think further about how to make investments to purchase plots, and build restaurants, and apartments.
+
+Through this project, I will dive in through the problems and bottlenecks one might face when opening a restaurant. With data readily available, I will gather insights on who the competitors are, and compare the metrics of top cuisines, ratings, review counts, price, etc. In easy words, how can I create a business model to open a restaurant in an area of choice?
  
-Text here...
+## Project Structure
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The book Good Charts, (Berinato, 2016, p. 199) mentions, "Any story can be told in multiple ways, but a good way to start is to break the idea into three basic dramatic parts:" setup, conflict, and resolution." () The major elements of my story will be structured based on the following:
+Setup: New restaurants involve selecting a location, managing costs, analyzing competitors, and comparing ratings and reviews.
+Conflict: Lack of statistical data insights creates challenges of unexpected costs, delays, stronger competition, and closure of restaurants.
+Resolution: Strategic planning optimizes location benefits, manages financial resources, gains edge over competitors, and gains better reviews and ratings.
 
-Text here...
+The above structure will help me understand the existing problem and with the availability of data, I can further gain insights on which is the best way ahead to successfully build a restaurant. I will be informed of mistakes in the business models of existing restaurants which will help me avoid those when I create a business model of my own.
+
+### User Story
+As an individual, I want to gather data insights on restaurants, so that I can build a restaurant of my own.
+
+Creating a solid business model will help me avoid risks and failures in my investments in real estate.
+https://i.imgur.com/DebCGJX.jpeg
+
+
+
+
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+I will be creating an interactive map that will provide all the restaurants in the location selected to open a restaurant. For every competitor restaurant, I will detail the parameters like ratings, reviews, price, the best-sold dish, etc. This will help me understand that if I want to gain an edge over my competitor, which pitfalls must I avoid? For example, if a location has a Mexican restaurant, with a huge review count, and a good rating, the chances are there are more Mexicans in the area.
+
+I will also create separate bar charts to quickly understand restaurants and their rankings for each parameter. I will sort them from best to worst. To enhance data visualization, I will then be creating a heat map to sort all the restaurants in the location
+
+https://i.imgur.com/JLTR3T2.png
+
+https://i.imgur.com/nGVrPAQ.png
+
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+I will be scraping data from public repositories. I will be using a publicly available data repository Yelp API. This will have data on restaurant location, cuisine type, ratings, reviews, price, and review counts. Based on the above parameters, I can analyze the conflicts, I might have opening a new restaurant. I can filter the data to make concise data visualizations which will help me make better decisions.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I will be using open source platform, PostmanAPI to grab the JSON data of the restaurant parameters and convert it into csv file. I will use Python libraries like Numpy and Panda to clean the data. Finally, I will be using Tableau to create visualization which will act as a reference to create business models.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+# Name                               URL                                                                      Description
+Yelp Fusion API      https://api.yelp.com/v3/businesses/search    Public data repository with data on restaurant location, cuisine type, ratings, reviews, price, and review counts 
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+With a clear understanding of the project structure, availability of data, and initial sketches, I will use Shorthand and Tableau to create an attractive visualization that will not help only me but anyone who is looking to create a business model or improve an existing business model to open a restaurant.
 
-Text here...
+# References
+
+1. Kiyosaki, R. T. (2017). Rich dad, poor dad. Plata Publishing.
+2. Berinato, Scott. (2016). Good charts : the HBR guide to making smarter, more persuasive data visualization . Boston: Harvard Business Review.
+
+
