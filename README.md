@@ -46,9 +46,15 @@ Step four: test the solution
 Step five: build your solution 
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+
+Are you looking to open a restaurant? Find out how to implement and improve your business model to gain an edge over competitors and make your restaurant a success.
+
 [Part I](final-project-part-one)
+
+Gather insights on outline, project structure, and data used to generate insights about existing competitors. Click on the hyperlink to learn more.
+
 [Part II](final-project-part-two)
+
 Part III(final-project-part-three)
 
 ---
