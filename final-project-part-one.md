@@ -6,7 +6,7 @@
 ## Summary
 
 Growing up I realised the long-term benefits and future of real estate. I always wanted to create something of my own. Reading books like Rich Dad Poor Dad by Robert Kiyosaki, a Japanese-American businessman and author
-further piqued my interest in how to be financially independent and make money work for you rather than working for money (). This led me to think further about how to make investments to purchase plots, and build restaurants, and apartments.
+further piqued my interest in how to be financially independent and make money work for you rather than working for money (Kiyosaki, R. T. 2017). This led me to think further about how to make investments to purchase plots, and build restaurants, and apartments.
 
 Through this project, I will dive in through the problems and bottlenecks one might face when opening a restaurant. With data readily available, I will gather insights on who the competitors are, and compare the metrics of top cuisines, ratings, review counts, price, etc. In easy words, how can I create a business model to open a restaurant in an area of choice?
  
@@ -23,11 +23,7 @@ The above structure will help me understand the existing problem and with the av
 As an individual, I want to gather data insights on restaurants, so that I can build a restaurant of my own.
 
 Creating a solid business model will help me avoid risks and failures in my investments in real estate.
-https://i.imgur.com/DebCGJX.jpeg
-
-
-
-
+![img1](https://i.imgur.com/DebCGJX.jpeg) 
 
 ## Initial sketches
 
@@ -35,9 +31,9 @@ I will be creating an interactive map that will provide all the restaurants in t
 
 I will also create separate bar charts to quickly understand restaurants and their rankings for each parameter. I will sort them from best to worst. To enhance data visualization, I will then be creating a heat map to sort all the restaurants in the location
 
-https://i.imgur.com/JLTR3T2.png
+![img1](https://i.imgur.com/JLTR3T2.png)
 
-https://i.imgur.com/nGVrPAQ.png
+![img1](https://i.imgur.com/nGVrPAQ.png)
 
 
 
@@ -47,8 +43,9 @@ I will be scraping data from public repositories. I will be using a publicly ava
 
 I will be using open source platform, PostmanAPI to grab the JSON data of the restaurant parameters and convert it into csv file. I will use Python libraries like Numpy and Panda to clean the data. Finally, I will be using Tableau to create visualization which will act as a reference to create business models.
 
-# Name                               URL                                                                      Description
-Yelp Fusion API      https://api.yelp.com/v3/businesses/search    Public data repository with data on restaurant location, cuisine type, ratings, reviews, price, and review counts 
+1. Name: Yelp Fusion API                               
+2. URL: https://api.yelp.com/v3/businesses/search                                                                    
+3. Description: Public data repository with data on restaurant location, cuisine type, ratings, reviews, price, and review counts 
 
 
 # Method and medium
