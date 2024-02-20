@@ -3,7 +3,7 @@
 # Wireframes / storyboards
 Using my sketch from Part 1, I further developed my story outline and relevant components visually through the use of wireframing/storyboards. I have used Shorthand to share the data visualizations of the critical elements of my story with the readers.
 
-Please find my story outline draft build on Shorthand below.
+Please find my story outline draft built on Shorthand below.
 
 # User research 
 
@@ -20,7 +20,7 @@ My approach to identifying representative individuals for my interview will be b
 - 3rd Individual: Male (mid-20s) with an Information Systems Management background, who has a family business of real-estate in India, and has closely monitored and participated in real-estate investment projects.
 
 ## Interview script
-To design my Interview Script, I will be using Stephen Few's Data Visualization Effectiveness Profile. This profile will consist of two broad categories and several subcategories.
+To design my Interview Script, I will be using Stephen Few's Data Visualization Effectiveness Profile. This profile will consist of two broad categories, an overall category, and several subcategories.
 
 - **Informative**
 	- Usefulness
