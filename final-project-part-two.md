@@ -13,25 +13,25 @@ The public data repository gives me the flexibility to access data for all the r
 
 My approach to identifying representative individuals for my interview will be based on three types of individuals. First, someone who has strong knowledge on the restaurant industry, and who is aware of the ins and outs of the restaurant industry. Second, someone who knows the market, and the competition, but is from another industry. This will help me understand insights from the perspective of a different industry. Third, someone who is unaware of the restaurant industry, or any other specific industry, but has a strong understanding of the real-estate business. 
 
-1st Individual: Male (mid-20s) with an 
+- 1st Individual: Male (mid-20s) with an 
 
-2nd Individual: Male (mid-30s) with an Information Systems Management background, 
+- 2nd Individual: Male (mid-30s) with an Information Systems Management background, 
 
-3rd Individual: Male (mid-20s) with an Information Systems Management background, who has a family business of real-estate in India, and has closely monitored and participated in real-estate investment projects.
+- 3rd Individual: Male (mid-20s) with an Information Systems Management background, who has a family business of real-estate in India, and has closely monitored and participated in real-estate investment projects.
 
 ## Interview script
 To design my Interview Script, I will be using Stephen Few's Data Visualization Effectiveness Profile. This profile will consist of two broad categories and several subcategories.
 
-• Informative
-	• Usefulness
-	• Completeness
-	• Perceptibility
-	• Truthfulness
-	• Intuitiveness
-• Emotive
-	• Aesthetics
-	• Engagement
-• Overall 
+- **Informative**
+	- Usefulness
+ 	- Completeness
+	- Perceptibility
+	- Truthfulness
+	- Intuitiveness
+- **Emotive**
+  	- Aesthetics
+	- Engagement
+- **Overall** 
 
 
 | Goal | Questions to Ask |
