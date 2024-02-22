@@ -5,6 +5,9 @@ Using my sketch from Part 1, I further developed my story outline and relevant c
 
 Please find my story outline draft built on Shorthand below.
 
+
+<script src="https://carnegiemellon.shorthandstories.com/the-future/embed.js"></script>
+
 # User research 
 
 ## Target audience
