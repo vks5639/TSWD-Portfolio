@@ -16,11 +16,11 @@ The public data repository gives me the flexibility to access data for all the r
 
 My approach to identifying representative individuals for my interview will be based on three types of individuals. First, someone who has strong knowledge on the restaurant industry, and who is aware of the ins and outs of the restaurant industry. Second, someone who knows the market, and the competition, but is from another industry. This will help me understand insights from the perspective of a different industry. Third, someone who is unaware of the restaurant industry, or any other specific industry, but has a strong understanding of the real-estate business. 
 
-- 1st Individual: Male (mid-20s) with an 
+- 1st Individual: Male (mid-20s) with an Information Systems Management background, who has a family business of real-estate in India, and has closely monitored and participated in real-estate investment projects.  
 
-- 2nd Individual: Male (mid-30s) with an Information Systems Management background, 
+- 2nd Individual: Male (mid-20s) with an Information Systems Management background, who has family-run restaurant business in Philadelphia for more than 10 years.
 
-- 3rd Individual: Male (mid-20s) with an Information Systems Management background, who has a family business of real-estate in India, and has closely monitored and participated in real-estate investment projects.
+- 3rd Individual: Male (mid-30s) with an Information Systems Management background, who has experience in the healthcare industry, and had a few startups of his own in Peru.
 
 ## Interview script
 To design my Interview Script, I will be using Stephen Few's Data Visualization Effectiveness Profile. This profile will consist of two broad categories, an overall category, and several subcategories.
@@ -84,6 +84,9 @@ I will try covering most of the feedback and suggestions from the interviews. Ho
 I have to do some thorough research on the story of the intuitive brother. This will require pulling in more data to support the cause of restaurants that have a high chance of failing without a data-driven approach. Additionally, the class on 21st February had a critique session, where I collected feedback from my peers. There were suggestions for zooming in on the map's visualization to have clear visuals of the restaurants pinpointed on the map. I will be trying to figure that out on Tableau. Another suggestion that was made was to compare the individual business metrics like location, price, and ratings to find a cumulative ranking. This might need the use of some statistical concepts like multivariable ranking using weighted averages. I will try implementing this based on the complexity.  
 
 Overall, I will be making sure that I have all the citations/sources mentioned in the correct format. Since there is a lot of iFrame code embedded, I will make sure that I test the entire storyboard for any misses. I will finally be going through my GitHub Portfolio to make sure all the sections are properly marked. Additionally, I will check if the headers and links have been properly connected and if nothing breaks end-to-end.
+
+# References:
+1. Few, Stephen. Data Visualization Effectiveness Profile. 2017.
 
 
 
