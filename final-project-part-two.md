@@ -51,9 +51,8 @@ To design my Interview Script, I will be using Stephen Few's Data Visualization 
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+Interviews 1 and 3 were conducted virtually, Interview 2 was conducted in person. The interviewees took approximately 5-8 minutes to go through the story and comprehend it. There were several reviews about the story flow, visual representation, and other components of the storyboard. Detailed findings based on the interviews are listed below.
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -64,25 +63,27 @@ Text here!
 |  Was the representative intuitive and clear? Do you think any part requires additional explanation?				|	The slide on the Failure of restaurants would need additional details about the causes of restaurant failures			|	No	| Would like to read / see more about the intuitive brother to better contrast and strengthen the point that data-driven decision making is key in this business		|
 |   What are your thoughts on the visual appeal and the navigation of the shorthand presentation?                       |   Work is very appealing visually. Looks very professional and rich                             | love the visually appealing story because it makes the reading more engaging.            |  Was very visually appealing.  Felt like I was reading a comic book.         |
 | Did the storyboard/wireframe capture and hold your attention? Was it engaging or distracting?                        |   Navigating through the presentation was like a breeze                             | Yes, it is a very memorable story.            | Was very engaging - especially the story of the two brothers and the reference to Friends which most people would be able to relate to            |
-|     Are there any overall suggestions or changes you would recommend?                    |  Overall great job Vikash. All the best.                             |    Nice presentation         |     Fit the charts in one view where viewer can see the whole thing without scrolling e.g. ratings chart        |
+|     Are there any overall suggestions or changes you would recommend?                    |  Overall great job Vikash. All the best.                             |    Nice presentation         |     Fit the charts in one view where viewers can see the whole thing without scrolling e.g. ratings chart        |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+I could see similarities between the changes suggested by the three interviewees. All of them pointed out that the story had a smooth flow, mentioning the similarity to reading a comic book. However, there were a few areas, which need further research and improvements. The interview sessions were really helpful in gaining insights into the overall quality of my work. Getting the work reviewed by other users broadened my perspective and expanded my views on the topic. 
 
-Text here!
+I will try covering most of the feedback and suggestions from the interviews. However, I will focus on the below areas, where all three users had common views on the change being necessary for a better flow. The area of focus have been mentioned below:
+
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| There were parts of the story that seemed fragmented. This could break the flow of the story  | I will be working on linking the first half which is before the hypothetical story to the latter half. Improving the charts and linking the visualization to the story structure. |
+|  Charts were difficult to comprehend. Users had to zoom in to read the values.                                        |       I did struggle to make the images bigger. I have to try expanding the image or choosing a layout that properly displays images as well as supporting texts.                                                                          |
+|   Need to bring out both sides of the story.                                       |       User research strictly suggested to bring in the story of the intuitive brother. I will be putting in more research to support the story of the intuitive brother.                                                                          |
+|     Visualization has to be laid out properly on the board.                                      |     My Tableau visualizations were a bit messy, I tried to fix it in part 2, but I will be further enhancing it in part 3.  The visualizations should tell a story on its own.                                                                         |
+| Use intuitive colors for the pie charts| I have to be creative with the colors of the chart.	I have to select colors that are more intuitive for example, the Net Profit pie should stand out and other pies should have a less impactful color. The same applies to the donut chart.	|
 
-> ...include any final thoughts you have here. 
 
-Text here!
+I have to do some thorough research on the story of the intuitive brother. This will require pulling in more data to support the cause of restaurants that have a high chance of failing without a data-driven approach. Additionally, the class on 21st February had a critique session, where I collected feedback from my peers. There were suggestions for zooming in on the map's visualization to have clear visuals of the restaurants pinpointed on the map. I will be trying to figure that out on Tableau. Another suggestion that was made was to compare the individual business metrics like location, price, and ratings to find a cumulative ranking. This might need the use of some statistical concepts like multivariable ranking using weighted averages. I will try implementing this based on the complexity.  
+
+Overall, I will be making sure that I have all the citations/sources mentioned in the correct format. Since there is a lot of iFrame code embedded, I will make sure that I test the entire storyboard for any misses. I will finally be going through my GitHub Portfolio to make sure all the sections are properly marked. Additionally, I will check if the headers and links have been properly connected and if nothing breaks end-to-end.
 
 
 
