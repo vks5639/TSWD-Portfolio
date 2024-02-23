@@ -1,4 +1,4 @@
-| [home page](https://vks5639.github.io/My-Portfolio/) | [visualizing debt](dataviz) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://vks5639.github.io/My-Portfolio/) | [visualizing debt](dataviz) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | 
 
 # Wireframes / storyboards
 Using my sketch from Part 1, I further developed my story outline and relevant components visually through the use of wireframing/storyboards. I have used Shorthand to share the data visualizations of the critical elements of my story with the readers.
