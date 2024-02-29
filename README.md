@@ -55,7 +55,7 @@ Gather insights on outline, project structure, and data used to generate insight
 
 [Part II](final-project-part-two)
 
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 
