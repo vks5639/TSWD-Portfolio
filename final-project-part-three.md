@@ -24,32 +24,42 @@ Additionaly, from feedback from Interview 3 and the class on 21st February that 
 
 Please find the detailed steps that I followed to make the above-mentioned five changes for my final decisions:
 
-1. Visibility on Story of the "Intuitive Brother": 
+1. Visibility on Story of the "Intuitive Brother": Based on the feedback of User 3 who mentioned "Would like to read/see more about the intuitive brother", I contrasted and compared benefits and mentioned that "Analytical Brother" could get over "Intuitive Brother" for every visualization.                                                                              
+For example:
+The Restaurant Density Map will help Chandler, understand the density distribution for all the restaurants available in the location which Joey is unaware of.
+Restaurant Ratings will help Chandler identify the competitors available in the choice of location while Joey has no idea of his competitors.
 
-2. Linking the Real story with the Hypothetical story.
+3. Find out surveys that support the reasons for Restaurant Failures: I gathered data on the reasons for the failure of restaurants. I gathered insights from statistics and reports from CNBC.com, National Restaurant Association (NRA), and MenuTiger. These insights clearly specified the top reasons why restaurants fail. To support the insights, I added a bar graph illustrating the top reasons for restaurant failure.
 
-3. Find out surveys that support the reasons for Restaurant Failures.
+4. Linking the Real story with the Hypothetical story: Adding real research done in the past with my own research on business metrics, I tried to bridge the gap between the real story and the hypothetical story. This was feedback from User 3 who mentioned "There could be some more valuable data to be added - the success of restaurants that took data-driven business decisions vs those who didn’t"
 
-4. Two of my users (User 1 and User 3) suggested making images bigger, deciding on intuitive colors, and adding a story between the series of visualizations that Ross, the Data Analyst created.
+5. Two of my users (User 1 and User 3) suggested making images bigger, deciding on intuitive colors, and adding a story between the series of visualizations that Ross, the Data Analyst created: I expanded the Average Restaurant Profit Margin pie chart to make the labels and percentage shares clearly visible. I added bigger labels on the donut chart which highlighted the failure of restaurants. I also added intuitive colors to the visualizations and stories between the Tableau visualizations for a smoother transition.
 
-5. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
+6. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
 
 Yelp API (Open Source, Unlimited free responses)
+
 https://api.yelp.com/v3/businesses/search
+
 This endpoint provides business metrics of more than 1000 businesses across the industries. 
 
 Google My Business API (Open Source, Limited free responses)
+
 https://mybusiness.googleapis.com/v4/{parent=accounts/*/locations/*}/reviews
+
 This endpoint provides a more detailed response with numerous business metrics. Only the first 100 responses can be accessed in the free model.
 
-Other resources include United States Census Bureau (https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722),
+Other resources include the United States Census Bureau 
+
+(https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722),
+
 Trip Advisor (https://developer-tripadvisor.com/content-api/description/).
 
 ## The audience
 
 At the start of my project (Part I), I was primarily focused on my own journey as an aspiring real estate entrepreneur. However, after the critique session on 21st February and after the interviews, it was evident to me that there are many aspiring entrepreneurs like me who share the same story as mine. They have that big idea in their minds but are confused about where to start. Interviewing User 2, who has family-run restaurant business in Philadelphia for more than 10 years, helped me understand the pain points that a restaurant owner faces over the years. A few of the pain points discussed were deciding competitive prices, choice of location, cuisine popularity, and top competitors in the vicinity. He mentioned how making the mistake of acquiring cheaper land to set up a restaurant which was not in the heart of the city turned out to be less rewarding. User 3, who worked in other startup industries, mentioned how the concept of the 4 Ps "Product, Price, Place, and Promotion" helps decide the sustainability of the business.
 
-For my current dataset, I have restricted the audience to aspiring real estate entrepreneurs of Pittsburgh, who want to foray into the restaurant industry. Additionally, I am working on this same project in my Capstone course at CMU. I am taking a few advanced steps where I will be widening the audience reach to the state of Pennsylvania, and then to all other states in the US. My final targeted audience will be aspiring entrepreneurs across all industries not only real estate. Data accessed from Yelp and Google My Business APIs and providing easy-to-understand Tableau Visualizations will help my audience take calculated risks and smartly approach their ventures. Finally, I will add links to public data repositories, and guidebooks that entrepreneurs can refer to for their personal research.
+For my current dataset, I have restricted the audience to aspiring real estate entrepreneurs of Pittsburgh, who want to foray into the restaurant industry. Additionally, I am working on this same project in my Capstone course at CMU. I am taking a few advanced steps where I will be widening the audience reach to the state of Pennsylvania, and then to all other states in the US. My final targeted audience will be aspiring entrepreneurs across all industries of real estate. Data accessed from Yelp and Google My Business APIs and providing easy-to-understand Tableau Visualizations will help my audience take calculated risks and smartly approach their ventures. Finally, I will add links to public data repositories, and guidebooks that entrepreneurs can refer to for their personal research.
 
 
 
@@ -69,4 +79,4 @@ I thoroughly enjoyed working on this project because it relates to something tha
 
 Researching data was a bit challenging as there were only a few resources that were free and publicly available. Also, extensive research had to be done on gathering data to support why restaurants without a data-driven approach have a high chances of failure. In other words, there are a lot of resources that talk about the solution without actually talking about the real problem. The most fun part of the project was interviewing the users and getting my work reviewed by them. In the past, I had similar creative work ideas that I didn't bring into action because I was hesitant about user acceptance. However, getting a positive response from the users encouraged me to bring in more creative aspects to the project. I really liked comments from users like "Navigating through the presentation was like a breeze" and "Was very visually appealing. Felt like I was reading a comic book."
 
-To conclude, I am very fortunate to have taken this course and although the assignments were a bit time-consuming, the learnings and takeaways were immense. In my career as a Data Analyst working through my future projects successfully, I will always be reminded of the "Telling Stories With Data" class and my Professor.
+To conclude, I am very fortunate to have taken this course, the learnings and takeaways were immense. In my career as a Data Analyst working through my future projects successfully, I will always be reminded of the "Telling Stories With Data" class and my Professor.
