@@ -16,7 +16,7 @@ Based on the feedback from the user research and interviews, and also from discu
 
 4. Two of my users (User 1 and User 3) suggested making images bigger, deciding on intuitive colors, and adding a story between the series of visualizations that Ross, the Data Analyst created.
 
-5. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I will be adding resources, and guidebooks which will help new entrepreneurs.
+5. Based on my Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I will be adding resources, and guidebooks which will help new entrepreneurs.
 
 Additionaly, from feedback from Interview 3 and the class on 21st February that had a critique session, where I collected feedback from my peers, I gathered insights on strengthening the point that data-driven decision is an important aspect of deciding business success. I also cited all the images that were not already cited on Shorthand to avoid any copyright issues. I also provided references to all the sources I cited at the end of the storyboard. I also made sure that I check that there is uniformity across my portfolio, in terms of images, fonts, titles, and visualizations. Finally, I made sure that there were no grammatical errors in my work and that all the visualizations (interactive and non-interactive) were properly rendered.
 
@@ -35,7 +35,7 @@ Restaurant Ratings will help Chandler identify the competitors available in the 
 
 5. Two of my users (User 1 and User 3) suggested making images bigger, deciding on intuitive colors, and adding a story between the series of visualizations that Ross, the Data Analyst created: I expanded the Average Restaurant Profit Margin pie chart to make the labels and percentage shares clearly visible. I added bigger labels on the donut chart which highlighted the failure of restaurants. I also added intuitive colors to the visualizations and stories between the Tableau visualizations for a smoother transition.
 
-6. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. Users can get extensive data using any API tool like Postman. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
+6. Based on my Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. Users can get extensive data using any API tool like Postman. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
 
 | Source | URL | Description |
 |--------|-----|-------------|
@@ -64,6 +64,11 @@ To avoid any copyright violations, I made sure to cite all the sources (MLA Form
 2. What Is the Average Restaurant Profit Margin? [2023 Data]. https://pos.toasttab.com/blog/on-the-line/average-restaurant-profit-margin. Accessed 21 Feb. 2024.
 
 3. “Restaurant Failure Rate Much Lower Than Commonly Assumed, Study Finds.” Restaurant Failure Rate Much Lower Than Commonly Assumed, Study Finds, https://news.osu.edu/restaurant-failure-rate-much-lower-than-commonly-assumed-study-finds/. Accessed 21 Feb. 2024.
+4. Bellini, Jarrett. “The No. 1 Thing to Consider before Opening a Restaurant.” CNBC, 15 Mar. 2016, https://www.cnbc.com/2016/01/20/heres-the-real-reason-why-most-restaurants-fail.html.
+   
+5. Claire. “Restaurant Failure Rate Statistics for 2024.” MENU TIGER, 22 Jan. 2024, https://menu.qrcode-tiger.com/blog/restaurant-failure-rate-statistics/.
+
+6. “2024 State of the Restaurant Industry.” NRA, https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry/. Accessed 1 Mar. 2024.
 
 
 # Final thoughts
