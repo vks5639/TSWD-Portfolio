@@ -18,7 +18,7 @@ Based on the feedback from the user research and interviews, and also from discu
 
 5. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I will be adding resources, and guidebooks which will help new entrepreneurs.
 
-Additionaly, from feedback from Interview 3 and the class on 21st February that had a critique session, where I collected feedback from my peers, I added a CNBC report on strengthening the point that data-driven decision is an important aspect of deciding business success. I also cited all the images that were not already cited on Shorthand to avoid any copyright issues. I also provided references to all the sources I cited at the end of the storyboard. I also made sure that I check that there is uniformity across my portfolio, in terms of images, fonts, titles, and visualizations. Finally, I made sure that there were no grammatical errors in my work and that all the visualizations (interactive and non-interactive) were properly rendered.
+Additionaly, from feedback from Interview 3 and the class on 21st February that had a critique session, where I collected feedback from my peers, I gathered insights on strengthening the point that data-driven decision is an important aspect of deciding business success. I also cited all the images that were not already cited on Shorthand to avoid any copyright issues. I also provided references to all the sources I cited at the end of the storyboard. I also made sure that I check that there is uniformity across my portfolio, in terms of images, fonts, titles, and visualizations. Finally, I made sure that there were no grammatical errors in my work and that all the visualizations (interactive and non-interactive) were properly rendered.
 
 ## Final design decisions
 
@@ -37,23 +37,11 @@ Restaurant Ratings will help Chandler identify the competitors available in the 
 
 6. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
 
-Yelp API (Open Source, Unlimited free responses)
-
-https://api.yelp.com/v3/businesses/search
-
-This endpoint provides business metrics of more than 1000 businesses across the industries. 
-
-Google My Business API (Open Source, Limited free responses)
-
-https://mybusiness.googleapis.com/v4/{parent=accounts/*/locations/*}/reviews
-
-This endpoint provides a more detailed response with numerous business metrics. Only the first 100 responses can be accessed in the free model.
-
-Other resources include the United States Census Bureau 
-
-(https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722),
-
-Trip Advisor (https://developer-tripadvisor.com/content-api/description/).
+|Source | URL | Description |
+|Yelp API (Open Source, Unlimited free responses) | https://api.yelp.com/v3/businesses/search | This endpoint provides business metrics of more than 1000 businesses across the industries. |
+|Google My Business API (Open Source, Limited free responses) | https://mybusiness.googleapis.com/v4/{parent=accounts/*/locations/*}/reviews| This endpoint provides a more detailed response with numerous business metrics. Only the first 100 responses can be accessed in the free model.|
+|United States Census Bureau  | https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722|  |
+| Trip Advisor| https://developer-tripadvisor.com/content-api/description/|  |
 
 ## The audience
 
