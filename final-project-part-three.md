@@ -35,7 +35,7 @@ Restaurant Ratings will help Chandler identify the competitors available in the 
 
 5. Two of my users (User 1 and User 3) suggested making images bigger, deciding on intuitive colors, and adding a story between the series of visualizations that Ross, the Data Analyst created: I expanded the Average Restaurant Profit Margin pie chart to make the labels and percentage shares clearly visible. I added bigger labels on the donut chart which highlighted the failure of restaurants. I also added intuitive colors to the visualizations and stories between the Tableau visualizations for a smoother transition.
 
-6. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
+6. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. Users can get extensive data using any API tool like Postman. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
 
 | Source | URL | Description |
 |--------|-----|-------------|
