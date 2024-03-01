@@ -37,11 +37,13 @@ Restaurant Ratings will help Chandler identify the competitors available in the 
 
 6. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
 
-|Source | URL | Description |
-|Yelp API (Open Source, Unlimited free responses) | https://api.yelp.com/v3/businesses/search | This endpoint provides business metrics of more than 1000 businesses across the industries. |
-|Google My Business API (Open Source, Limited free responses) | https://mybusiness.googleapis.com/v4/{parent=accounts/*/locations/*}/reviews| This endpoint provides a more detailed response with numerous business metrics. Only the first 100 responses can be accessed in the free model.|
-|United States Census Bureau  | https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722|  |
-| Trip Advisor| https://developer-tripadvisor.com/content-api/description/|  |
+| Source | URL | Description |
+|--------|-----|-------------|
+| Yelp API (Open Source, Unlimited free responses) | [https://api.yelp.com/v3/businesses/search](https://api.yelp.com/v3/businesses/search) | This endpoint provides business metrics of more than 1000 businesses across industries. |
+| Google My Business API (Open Source, Limited free responses) | [https://mybusiness.googleapis.com/v4/{parent=accounts/*/locations/*}/reviews](https://mybusiness.googleapis.com/v4/{parent=accounts/*/locations/*}/reviews) | This endpoint offers a detailed response with numerous business metrics, with the first 100 responses accessible for free. |
+| United States Census Bureau | [https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722](https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722) | Provides data on restaurants in the US. |
+| Trip Advisor | [https://developer-tripadvisor.com/content-api/description/](https://developer-tripadvisor.com/content-api/description/) | Provides access to Trip Advisor's content API. |
+
 
 ## The audience
 
