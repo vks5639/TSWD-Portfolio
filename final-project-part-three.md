@@ -32,7 +32,18 @@ Please find the detailed steps that I followed to make the above-mentioned five 
 
 4. Two of my users (User 1 and User 3) suggested making images bigger, deciding on intuitive colors, and adding a story between the series of visualizations that Ross, the Data Analyst created.
 
-5. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I will be adding resources, and guidebooks which will help new entrepreneurs.
+5. Based on the Professor's feedback "to think about what a new entrepreneur starting a restaurant would really need", I added the following resources, and guidebooks which will help new entrepreneurs carry a research of their own. The below resources have also been mentioned in the Shorthand story for easy navigation to external links.
+
+Yelp API (Open Source, Unlimited free responses)
+https://api.yelp.com/v3/businesses/search
+This endpoint provides business metrics of more than 1000 businesses across the industries. 
+
+Google My Business API (Open Source, Limited free responses)
+https://mybusiness.googleapis.com/v4/{parent=accounts/*/locations/*}/reviews
+This endpoint provides a more detailed response with numerous business metrics. Only the first 100 responses can be accessed in the free model.
+
+Other resources include United States Census Bureau (https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722),
+Trip Advisor (https://developer-tripadvisor.com/content-api/description/).
 
 ## The audience
 
@@ -54,7 +65,7 @@ To avoid any copyright violations, I made sure to cite all the sources (MLA Form
 
 
 # Final thoughts
-I thoroughly enjoyed working on this project because it relates to something that has been in my family over the years. I had practical understanding of the concepts but a deeper insights on data and playing around with numbers gave me a broader understanding of how one can gain edge over their competitors in the market just by doing a simple research. This project and the course has really been a learning curve for me. The concepts that I learned here was very useful which inspired me to implement the similar concepts in my capstone project. I still remember how amazed my clients were when they say all the resaturants marked on one of the restaurant density visualizations I created. To further amaze them I made the visualization dynamic, interactive, and visually appealing. I am thankful to my Professor for making us aware about multiple tools to gnerate really cool visualizations. Since, my project talks about geospatial location, the 3D visualizations on Kepler.gl blew away my mind. I am currently working on replacing the existing 2D visualization with the 3D.
+I thoroughly enjoyed working on this project because it relates to something that has been in my family over the years. I had a practical understanding of the concepts but deeper insights on data and playing around with numbers gave me a broader understanding of how one can gain an edge over their competitors in the market just by doing simple research. This project and the course have really been a learning curve for me. The concepts that I learned here were very useful which inspired me to implement similar concepts in my capstone project. I still remember how amazed my clients were when they saw all the restaurants marked on one of the restaurant density visualizations I created. To further amaze them I made the visualization dynamic, interactive, and visually appealing. I am thankful to my Professor for making us aware of multiple tools to generate really cool visualizations. Since, my project talks about geospatial location, the 3D visualizations on Kepler.gl blew away my mind. I am currently working on replacing the existing 2D visualization with the 3D.
 
 Researching data was a bit challenging as there were only a few resources that were free and publicly available. Also, extensive research had to be done on gathering data to support why restaurants without a data-driven approach have a high chances of failure. In other words, there are a lot of resources that talk about the solution without actually talking about the real problem. The most fun part of the project was interviewing the users and getting my work reviewed by them. In the past, I had similar creative work ideas that I didn't bring into action because I was hesitant about user acceptance. However, getting a positive response from the users encouraged me to bring in more creative aspects to the project. I really liked comments from users like "Navigating through the presentation was like a breeze" and "Was very visually appealing. Felt like I was reading a comic book."
 
