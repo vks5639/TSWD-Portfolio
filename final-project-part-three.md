@@ -44,6 +44,8 @@ Restaurant Ratings will help Chandler identify the competitors available in the 
 | United States Census Bureau | [https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722](https://data.census.gov/webpages?q=restaurants+in+the+US&y=2021&n=722) | Provides data on restaurants in the US. |
 | Trip Advisor | [https://developer-tripadvisor.com/content-api/description/](https://developer-tripadvisor.com/content-api/description/) | Provides access to Trip Advisor's content API. |
 
+### Additional changes
+I made sure that all the images were properly cited and ran a check on Turnitin to make sure there were no citation misses from my end. I ran an end to end test to check if all the components are in placed and rendered correctly on Chrome browser and Safari browser.
 
 ## The audience
 
