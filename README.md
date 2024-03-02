@@ -51,11 +51,11 @@ Are you looking to open a restaurant? Find out how to implement and improve your
 
 [Part I](final-project-part-one)
 
-Gather insights on outline, project structure, and data used to generate insights about existing competitors. Click on the hyperlink to learn more.
+Gather insights on outline, project structure, and data used to generate insights about existing competitors. Click on Part I to learn more.
 
 [Part II](final-project-part-two)
 
-
+To learn about the Storyboards and User research for the project. Click Part II.
 
 [Part III](final-project-part-three)
 
