@@ -68,14 +68,12 @@ To avoid any copyright violations, I made sure to cite all the sources (MLA Form
 
 1. “How Much Does It Cost to Start a Restaurant Business?” CloudKitchens, https://cloudkitchens.com/blog/how-much-does-it-cost-to-start-restaurant-business/. Accessed 21 Feb. 2024.
 
-2. What Is the Average Restaurant Profit Margin? [2023 Data]. https://pos.toasttab.com/blog/on-the-line/average-restaurant-profit-margin. Accessed 21 Feb. 2024.
-
-3. “Restaurant Failure Rate Much Lower Than Commonly Assumed, Study Finds.” Restaurant Failure Rate Much Lower Than Commonly Assumed, Study Finds, https://news.osu.edu/restaurant-failure-rate-much-lower-than-commonly-assumed-study-finds/. Accessed 21 Feb. 2024.
-4. Bellini, Jarrett. “The No. 1 Thing to Consider before Opening a Restaurant.” CNBC, 15 Mar. 2016, https://www.cnbc.com/2016/01/20/heres-the-real-reason-why-most-restaurants-fail.html.
+2. “Restaurant Failure Rate Much Lower Than Commonly Assumed, Study Finds.” Restaurant Failure Rate Much Lower Than Commonly Assumed, Study Finds, https://news.osu.edu/restaurant-failure-rate-much-lower-than-commonly-assumed-study-finds/. Accessed 21 Feb. 2024.
+3. Bellini, Jarrett. “The No. 1 Thing to Consider before Opening a Restaurant.” CNBC, 15 Mar. 2016, https://www.cnbc.com/2016/01/20/heres-the-real-reason-why-most-restaurants-fail.html.
    
-5. Claire. “Restaurant Failure Rate Statistics for 2024.” MENU TIGER, 22 Jan. 2024, https://menu.qrcode-tiger.com/blog/restaurant-failure-rate-statistics/.
+4. Claire. “Restaurant Failure Rate Statistics for 2024.” MENU TIGER, 22 Jan. 2024, https://menu.qrcode-tiger.com/blog/restaurant-failure-rate-statistics/.
 
-6. “2024 State of the Restaurant Industry.” NRA, https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry/. Accessed 1 Mar. 2024.
+5. “2024 State of the Restaurant Industry.” NRA, https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry/. Accessed 1 Mar. 2024.
 
 
 # Final thoughts
