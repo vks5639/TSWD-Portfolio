@@ -2,8 +2,8 @@
 
 # The final data story
 
-# Github link: https://vks5639.github.io/My-Portfolio/final-project-part-three
-# Shorthand link: https://carnegiemellon.shorthandstories.com/the-future/index.html
+### Github link: https://vks5639.github.io/My-Portfolio/final-project-part-three
+### Shorthand link: https://carnegiemellon.shorthandstories.com/the-future/index.html
 
 Please find below my final deliverable from Shorthand emphasizing why proper Research and a Data-driven approach are necessary in the Restaurant industry.
 <script src="https://carnegiemellon.shorthandstories.com/the-future/embed.js"></script>
