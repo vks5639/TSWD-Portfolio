@@ -1,6 +1,10 @@
 | [home page](https://vks5639.github.io/My-Portfolio/) | [visualizing debt](dataviz) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
+
+# Github link: https://vks5639.github.io/My-Portfolio/final-project-part-three
+# Shorthand link: https://carnegiemellon.shorthandstories.com/the-future/index.html
+
 Please find below my final deliverable from Shorthand emphasizing why proper Research and a Data-driven approach are necessary in the Restaurant industry.
 <script src="https://carnegiemellon.shorthandstories.com/the-future/embed.js"></script>
 
