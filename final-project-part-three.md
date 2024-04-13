@@ -1,4 +1,4 @@
-| [home page](https://vks5639.github.io/My-Portfolio/) | [visualizing debt](dataviz) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home page](https://vks5639.github.io/TSWD-Portfolio/) | [visualizing debt](dataviz) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
 
