@@ -1,4 +1,4 @@
-| [home page](https://vks5639.github.io/My-Portfolio/) | [visualizing debt](dataviz) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home page](https://vks5639.github.io/TSWD-Portfolio/) | [visualizing debt](dataviz) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 Welcome to my "Telling Stories With Data" portfolio from Carnegie Mellon University, where I transform complex datasets into clear, engaging narratives through innovative visualizations. My work, including a comprehensive final project, demonstrates my ability to reveal insightful stories hidden within data. If my approach resonates with you, I'd be delighted to explore how my skills can contribute to your team. 
